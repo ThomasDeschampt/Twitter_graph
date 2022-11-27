@@ -18,4 +18,4 @@ Après, j'ai pu entrer l'ensemble de ces informations dans le logiciel Gephi de 
 
 # Graphique followers @ZenEmission
 
-![zen8K2](https://user-images.githubusercontent.com/94399277/204142453-f908836e-006f-456e-8318-4373119a310f.png)
+![like_2k](https://user-images.githubusercontent.com/94399277/204142610-6067b8be-ef9e-41dd-a947-9a38e88122a8.png)
