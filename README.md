@@ -14,10 +14,11 @@ Après, j'ai pu entrer l'ensemble de ces informations dans le logiciel Gephi de 
 # Graphique followers @ZenEmission
 
 ![zen8K2](https://user-images.githubusercontent.com/94399277/204142453-f908836e-006f-456e-8318-4373119a310f.png)
-Sur ce graphique on peut retrouver les 640 comptes les plus suivis par les followers de @ZenEmission sur les 42 000 followers analysés. 
+Sur ce graphique on peut retrouver les 640 comptes les plus suivis par les followers de @ZenEmission sur les 42 000 followers analysés. <br>
 Au départ, après avoir récupéré les informations de ces 42 000, j'avais à ma disposition environ 48 000 noeuds soit 48 000 comptes suivis pour environ 710 000 relations. 
 C'est pour cela que j'ai choisi de garder au final que les comptes les plus populaires visibles sur le graphique.
 
 # Graphique followers @ZenEmission
 
 ![like_2k](https://user-images.githubusercontent.com/94399277/204142610-6067b8be-ef9e-41dd-a947-9a38e88122a8.png)
+![moi8k](https://user-images.githubusercontent.com/94399277/204143376-186f2672-9a7b-4418-b15c-033a4a47973e.png)
