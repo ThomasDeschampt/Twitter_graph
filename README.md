@@ -11,7 +11,7 @@ Pour cela j'ai dans un premier temps utilisé l'API de Twitter pour récupérer 
 Après, j'ai pu entrer l'ensemble de ces informations dans le logiciel Gephi de manière à pouvoir les visualiser et les analyser. 
 
 
-<h1> Graphique followers de @ZenEmission</h1>
+
 ![Screenshot](likes_8k.png)
 
 
