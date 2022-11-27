@@ -12,11 +12,10 @@ Après, j'ai pu entrer l'ensemble de ces informations dans le logiciel Gephi de 
 
 
 
-![Screenshot](likes_8k.png)
+![zen8K2](https://user-images.githubusercontent.com/94399277/204142453-f908836e-006f-456e-8318-4373119a310f.png)
 
 
 <br>
-<h1> Graphique des mes likes</h1>
-![Screenshot](screenshot.png)
 
+![like_2k](https://user-images.githubusercontent.com/94399277/204142460-edf7670e-98a9-4cae-a0ad-0f504c76aaef.png)
 
