@@ -11,11 +11,11 @@ Pour cela j'ai dans un premier temps utilisé l'API de Twitter pour récupérer 
 Après, j'ai pu entrer l'ensemble de ces informations dans le logiciel Gephi de manière à pouvoir les visualiser et les analyser. 
 
 
-#titre Graphique followers @ZenEmission
+# Graphique followers @ZenEmission
 
 ![zen8K2](https://user-images.githubusercontent.com/94399277/204142453-f908836e-006f-456e-8318-4373119a310f.png)
 
 
-#titre Graphique followers @ZenEmission
+# Graphique followers @ZenEmission
 
 ![zen8K2](https://user-images.githubusercontent.com/94399277/204142453-f908836e-006f-456e-8318-4373119a310f.png)
