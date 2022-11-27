@@ -12,7 +12,7 @@ Après, j'ai pu entrer l'ensemble de ces informations dans le logiciel Gephi de 
 
 
 <h1> Graphique followers de @ZenEmission</h1>
-![zen8K](https://user-images.githubusercontent.com/94399277/204090634-b3404125-5bf2-46fa-8f17-1cdf6b6af3a5.png)
+<img src:'https://user-images.githubusercontent.com/94399277/204090634-b3404125-5bf2-46fa-8f17-1cdf6b6af3a5.png'>
 
 <br>
 <h1> Graphique des mes likes</h1>
