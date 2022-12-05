@@ -18,7 +18,7 @@ Sur ce graphique on peut retrouver les 640 comptes les plus suivis par les follo
 Au départ, après avoir récupéré les informations de ces 42 000, j'avais à ma disposition environ 48 000 nœuds soit 48 000 comptes suivis pour environ 710 000 relations. 
 C'est pour cela que j'ai choisi de garder au final que les comptes les plus populaires visibles sur le graphique.
 
-# Graphique followers @ZenEmission
+# Graphique de mes likes
 
 ![like_2k](https://user-images.githubusercontent.com/94399277/204142610-6067b8be-ef9e-41dd-a947-9a38e88122a8.png)
 Sur ce graphique, premier que j'ai réalisé, on voit les différents comptes desquels sont issus mes différents likes. Les liens entre les nœuds représentent les relations entre les comptes.
